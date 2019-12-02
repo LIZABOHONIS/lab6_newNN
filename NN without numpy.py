@@ -117,7 +117,6 @@ for i in a:
         result.append(1)
     else:
         result.append(0)
-#print('\t\t\tfinish result');
 print('New Weights : ', w)
 print('New vector : ', b)
 print('a = ', a)
